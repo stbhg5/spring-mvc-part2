@@ -5,6 +5,7 @@
 
 <h2>1. 타임리프 - 기본 기능<h2/>
     <a href="https://stbhg5.tistory.com/1264">프로젝트 생성</a><br/>
+    <a href="https://stbhg5.tistory.com/1267">타임리프 소개</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
