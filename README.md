@@ -9,6 +9,7 @@
     <a href="https://stbhg5.tistory.com/1270">텍스트 - text, utext</a><br/>
     <a href="https://stbhg5.tistory.com/1271">변수 - SpringEL</a><br/>
     <a href="https://stbhg5.tistory.com/1274">기본 객체들</a><br/>
+    <a href="https://stbhg5.tistory.com/1276">유틸리티 객체와 날짜</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
