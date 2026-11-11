@@ -13,6 +13,7 @@
     <a href="https://stbhg5.tistory.com/1279">URL 링크</a><br/>
     <a href="https://stbhg5.tistory.com/1283">리터럴</a><br/>
     <a href="https://stbhg5.tistory.com/1286">연산</a><br/>
+    <a href="https://stbhg5.tistory.com/1288">속성 값 설정</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
