@@ -16,6 +16,7 @@
     <a href="https://stbhg5.tistory.com/1288">속성 값 설정</a><br/>
     <a href="https://stbhg5.tistory.com/1291">반복</a><br/>
     <a href="https://stbhg5.tistory.com/1294">조건부 평가</a><br/>
+    <a href="https://stbhg5.tistory.com/1297">주석</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
