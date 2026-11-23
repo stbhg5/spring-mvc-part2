@@ -24,8 +24,8 @@
     <a href="https://stbhg5.tistory.com/1311">템플릿 레이아웃2</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>2. 타임리프 - 스프링 통합과 폼<h2/>
+    <a href="https://stbhg5.tistory.com/1315">프로젝트 설정</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
