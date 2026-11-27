@@ -28,6 +28,7 @@
     <a href="https://stbhg5.tistory.com/1315">프로젝트 설정</a><br/>
     <a href="https://stbhg5.tistory.com/1318">타임리프 스프링 통합</a><br/>
     <a href="https://stbhg5.tistory.com/1321">입력 폼 처리</a><br/>
+    <a href="https://stbhg5.tistory.com/1325">요구사항 추가</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
